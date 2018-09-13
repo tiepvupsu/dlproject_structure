@@ -1,3 +1,6 @@
+
+Typical structure of a PyTorch project:
+
 ```
 ── READEME.md
 ├── data
